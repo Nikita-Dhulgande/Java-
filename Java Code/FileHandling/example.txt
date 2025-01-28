@@ -1,0 +1,2 @@
+This is a line written using BufferedWriter.
+This is another line.
